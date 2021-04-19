@@ -1,0 +1,3 @@
+on early-init
+    setprop ro.product.locale es-US
+    setprop persist.sys.timezone America/Mexico_City

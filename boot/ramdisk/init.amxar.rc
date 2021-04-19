@@ -1,0 +1,4 @@
+on early-init
+    setprop ro.com.google.clientidbase.ms android-americamovil-{country}
+    setprop ro.com.google.clientidbase.am android-americamovil-{country}
+    setprop persist.sys.timezone America/Argentina/Buenos_Aires

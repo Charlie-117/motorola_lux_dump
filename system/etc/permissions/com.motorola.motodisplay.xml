@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<permissions>
+    <!-- Uses the Doze architecture of MotoDisplay. -->
+    <feature name="com.motorola.motodisplay.doze" />
+    <permission name="com.motorola.motodisplay.permission.PARTIAL_DISPLAY" >
+        <group gid="compass" />
+        <group gid="graphics" />
+    </permission>
+</permissions>
+

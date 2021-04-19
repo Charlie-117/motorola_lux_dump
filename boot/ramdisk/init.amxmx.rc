@@ -1,0 +1,5 @@
+on early-init
+    setprop ro.com.google.clientidbase.ms android-americamovil-{country}
+    setprop ro.com.google.clientidbase.am android-americamovil-{country}
+    setprop persist.sys.timezone America/Mexico_City
+    setprop persist.radio.suppress_ussd_rel 1

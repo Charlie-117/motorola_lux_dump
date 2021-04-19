@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone='yes' ?>
+    <updates>
+        <package old="com.android.mms">
+            <shortcut
+                newpackage="com.google.android.apps.messaging"
+                oldclass="com.android.mms.ui.ConversationList"
+                newclass="com.google.android.apps.messaging.ui.ConversationListActivity" />
+        </package>
+    </updates>

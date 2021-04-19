@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <feature name="com.motorola.software.device.lux_uds" />
+    <feature name="com.motorola.software.product.lux_retail_ds" />
+    <feature name="com.motorola.hardware.tier.X" />
+    <feature name="com.motorola.hardware.wave.2015.1" />
+</permissions>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<packages>
+        <!-- Motorola related packages -->
+        <!-- <item>package.name</item> -->
+        <item>com.motorola.ptt.prip.br</item>
+        <item>com.motorola.setupwizard.devicesetup</item>
+        <item>com.motorola.dataoffloading</item>
+        <item>com.motorola.nfcui</item>
+        <item>com.motorola.setupwizard.phoneservice</item>
+        <item>com.customermobile.preload.vzw</item>
+        <item>com.asurion.android.verizon.vms</item>
+        <item>com.gotv.nflgamecenter.us.lite</item>
+        <item>com.motorola.vzw.settings.extensions</item>
+        <item>com.motorola.android.sdm.plugins.connmo</item>
+        <item>com.verizon.llkagent</item>
+        <item>com.vzw.apnlib</item>
+        <item>com.motorola.hotspotlauncher</item>
+        <item>com.vzw.apnservice</item>
+        <item>com.motorola.android.buacloudcontactadapter</item>
+        <item>com.motorola.setupwizard.controller</item>
+        <item>com.vznavigator.Generic</item>
+        <item>com.motorola.localwipe.policy</item>
+        <item>com.verizon.obdm_permissions</item>
+        <item>com.verizon.vzwavs</item>
+        <item>com.vcast.mediamanager</item>
+        <item>com.vzw.hss.myverizon</item>
+        <item>com.motorola.vzw.cloudsetup</item>
+        <item>com.motricity.verizon.ssodownloadable</item>
+        <item>com.motorola.vzw.loader</item>
+        <item>com.motorola.vzw.phone.extensions</item>
+        <item>com.cequint.ecid</item>
+</packages>

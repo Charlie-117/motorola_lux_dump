@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<packages>
+        <!-- Motorola related packages -->
+        <!-- <item>package.name</item> -->
+        <item>com.motorola.android.nativedropboxagent</item>
+        <item>com.motorola.moto</item>
+        <item>com.motorola.targetnotif</item>
+        <item>com.motorola.pgmsystem2</item>
+        <item>com.motorola.programmenu</item>
+        <item>com.motorola.android.dm.service</item>
+</packages>

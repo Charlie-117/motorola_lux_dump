@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <!--
+     This product does not contain a SensorHub, or is a legacy product for
+     which the corresponding file is provided by the old SHUpdater package.
+    -->
+</permissions>

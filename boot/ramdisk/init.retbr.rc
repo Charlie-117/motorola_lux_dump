@@ -1,0 +1,3 @@
+on early-init
+    setprop ro.product.locale pt-BR
+    setprop persist.sys.timezone America/Sao_Paulo
